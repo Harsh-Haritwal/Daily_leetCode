@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
