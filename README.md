@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -45,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
@@ -131,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
