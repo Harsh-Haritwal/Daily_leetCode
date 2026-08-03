@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
