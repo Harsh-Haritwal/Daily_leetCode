@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0205-isomorphic-strings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0205-isomorphic-strings) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
