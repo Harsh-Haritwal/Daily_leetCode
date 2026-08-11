@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0706-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -191,4 +193,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
