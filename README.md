@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
