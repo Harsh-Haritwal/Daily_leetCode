@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0706-design-hashmap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
