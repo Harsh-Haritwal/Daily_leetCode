@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -198,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
