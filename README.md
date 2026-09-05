@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0205-isomorphic-strings) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
