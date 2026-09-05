@@ -12,7 +12,7 @@ public:
         if(idx > 9){
             return;
         }
-        if(temp.size() > k){
+        if(temp.size() >= k){
             return;
         }
 
