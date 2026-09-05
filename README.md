@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0164-maximum-gap) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0410-split-array-largest-sum) |
+| [0491-non-decreasing-subsequences](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0704-binary-search) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0706-design-hashmap) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -206,11 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0491-non-decreasing-subsequences) |
 ## Recursion
 |  |
 | ------- |
