@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0205-isomorphic-strings) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0216-combination-sum-iii) |
@@ -291,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
