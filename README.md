@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
