@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1922-count-good-numbers) |
