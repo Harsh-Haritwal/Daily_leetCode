@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0164-maximum-gap) |
 | [0216-combination-sum-iii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0410-split-array-largest-sum) |
 | [0491-non-decreasing-subsequences](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0496-next-greater-element-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
