@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0647-palindromic-substrings) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0735-asteroid-collision) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0907-sum-of-subarray-minimums) |
