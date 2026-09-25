@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0152-maximum-product-subarray) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0410-split-array-largest-sum) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0225-implement-stack-using-queues) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0503-next-greater-element-ii) |
