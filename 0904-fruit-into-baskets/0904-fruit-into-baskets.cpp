@@ -11,10 +11,10 @@ public:
             if (st.find(fruits[rt]) == st.end()) {
                 bucket++;
             }
-                st[fruits[rt]]++;
-            while (bucket > 2 ) {
+            st[fruits[rt]]++;
+            if (bucket > 2 ) {
 
-                    st[fruits[lt]]--;
+                st[fruits[lt]]--;
                 if(st[fruits[lt]] == 0){
                     bucket--;
                     st.erase(fruits[lt]);
@@ -24,7 +24,7 @@ public:
             }
 
             ans = max(ans, rt - lt+1 );
-                rt++;
+            rt++;
         }
         return ans;
     }
