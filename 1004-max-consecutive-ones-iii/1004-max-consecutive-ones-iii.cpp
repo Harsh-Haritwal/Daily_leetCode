@@ -5,16 +5,17 @@ public:
         int rt = 0;
         int ans = 0;
         int countOfZero = 0;
-        while( rt < nums.size()){
-            if(countOfZero == k && nums[rt] != 1){
-                while(nums[lt] != 0){
-                    lt++;
+        while (rt < nums.size()) {
+            if (nums[rt] == 0) countOfZero++;
+            if (countOfZero > k) {
+                if (nums[lt] == 0) {
+                    countOfZero--;
                 }
                 lt++;
-                countOfZero--;
+                rt++;
+                continue;
             }
-            if(nums[rt] == 0) countOfZero++;
-            ans = max(ans, rt-lt+1);
+            ans = max(ans, rt - lt + 1);
             rt++;
         }
         return ans;
