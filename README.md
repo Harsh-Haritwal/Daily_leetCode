@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
