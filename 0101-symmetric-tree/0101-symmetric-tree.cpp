@@ -11,35 +11,54 @@
  */
 class Solution {
 public:
-    bool isSymmetric(TreeNode* root) {
+    //DSA
+    bool isSymmetric(TreeNode* root){
         if(root == nullptr)return true;
-        queue<TreeNode*> q1;
-        queue<TreeNode*> q2;
-        q1.push(root);
-        q2.push(root);
-        while(!q1.empty() || !q2.empty()){
-            TreeNode* node1 = q1.front();
-            TreeNode* node2 = q2.front();
-
-            q1.pop();
-            q2.pop();
-
-            if(node1 == nullptr && node2 == nullptr){
-                continue;
-            }
-            if(node1 == nullptr || node2 == nullptr){
-                return false;
-            }
-            if(node1->val != node2-> val){
-                return false;
-            }
-
-            q1.push(node1->left);
-            q1.push(node1->right);
-            q2.push(node2->right);
-            q2.push(node2->left);
-        }
-        return true;
-
+        return check(root->left, root->right);
     }
+    bool check(TreeNode* left , TreeNode* right){
+        if(left == nullptr && right == nullptr){
+            return true;
+        }
+        if(left == nullptr || right == nullptr){
+            return false;
+        }
+        if(left->val != right->val){
+            return false;
+        }
+        return check(left->left, right->right) && check(left->right, right->left);
+    }
+
+    // BFS
+    // bool isSymmetric(TreeNode* root) {
+    //     if(root == nullptr)return true;
+    //     queue<TreeNode*> q1;
+    //     queue<TreeNode*> q2;
+    //     q1.push(root);
+    //     q2.push(root);
+    //     while(!q1.empty() || !q2.empty()){
+    //         TreeNode* node1 = q1.front();
+    //         TreeNode* node2 = q2.front();
+
+    //         q1.pop();
+    //         q2.pop();
+
+    //         if(node1 == nullptr && node2 == nullptr){
+    //             continue;
+    //         }
+    //         if(node1 == nullptr || node2 == nullptr){
+    //             return false;
+    //         }
+    //         if(node1->val != node2-> val){
+    //             return false;
+    //         }
+
+    //         q1.push(node1->left);
+    //         q1.push(node1->right);
+    //         q2.push(node2->right);
+    //         q2.push(node2->left);
+    //     }
+    //     return true;
+
+    // }
 };
