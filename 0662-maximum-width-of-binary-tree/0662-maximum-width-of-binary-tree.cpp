@@ -27,10 +27,10 @@ public:
                 
                 q.pop();
                 if (node->left != nullptr) {
-                    q.push({node->left, (idx * 2 + 1)-base});
+                    q.push({node->left, (idx-base) * 2 + 1});
                 }
                 if (node->right != nullptr) {
-                    q.push({node->right, (idx * 2 + 2)-base});
+                    q.push({node->right, (idx-base) * 2 + 2});
                 }
                 temp.push_back(idx);
             }
