@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
 |  |
 | ------- |
@@ -487,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
