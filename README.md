@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0164-maximum-gap) |
 | [0216-combination-sum-iii](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0217-contains-duplicate) |
+| [0307-range-sum-query-mutable](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0410-split-array-largest-sum) |
 | [0491-non-decreasing-subsequences](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0148-sort-list) |
+| [0307-range-sum-query-mutable](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0307-range-sum-query-mutable) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0307-range-sum-query-mutable) |
 | [0706-design-hashmap](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -511,4 +514,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harsh-Haritwal/Daily_leetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
